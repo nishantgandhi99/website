@@ -1,0 +1,24 @@
+baseurl = "https://www.example.org/"
+title = "Nishant M Gandhi"
+copyright = "Copyright &copy; 2017 - Nishant M Gandhi"
+canonifyurls = true
+# theme = "kiera"
+
+paginate = 20
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Nishant M Gandhi"
+    github = "nishantgandhi99"
+    gitlab = ""
+    linkedin = "nishantgandhi99"
+    facebook = ""
+    twitter = ""
+    instagram = ""
+    medium = "@nishantgandhi99"
+
+[params]
+    tagline = "Geek Traveler Entrepreneur"
