@@ -1,6 +1,6 @@
 baseurl = "https://nishantgandhi99.gitlab.io/web/"
 title = "Nishant M Gandhi"
-copyright = "Copyright &copy; 2017 - Nishant M Gandhi"
+copyright = "Nishant M Gandhi: Trying to make sense of everything"
 canonifyurls = true
 theme = "kiera"
 
@@ -21,4 +21,4 @@ pygmentsCodeFences = true
     medium = "@nishantgandhi99"
 
 [params]
-    tagline = "Geek Traveler Entrepreneur"
+    tagline = "Trying to Understand World by Reading Listening & Thinking."
