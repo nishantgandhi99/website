@@ -1,6 +1,6 @@
 baseurl = "https://nishantgandhi99.gitlab.io/web/"
 title = "Nishant M Gandhi"
-copyright = "Nishant M Gandhi: Trying to make sense of everything"
+copyright = "\"Trying to make sense of everything\""
 canonifyurls = true
 theme = "kiera"
 
