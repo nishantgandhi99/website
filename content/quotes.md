@@ -9,3 +9,7 @@ meta = "false"
 **Murphy's Law:** "Whatever can go wrong, will go wrong."
 
 **Aaron Swartz:** “I think deeply about things and want others to do likewise. I work for ideas and learn from people. I don’t like excluding people. I’m a perfectionist, but I won’t let that get in the way of publication. Except for education and entertainment, I’m not going to waste my time on things that won’t have an impact. I try to be friends with everyone, but I hate it when you don’t take me seriously. I don’t hold grudges, it’s not productive, but I learn from my experience. I want to make the world a better place.”
+
+**Unknown:** "The desire to be different, makes all of us same. Irony!!!"
+
+**Isaac Newton:** "If I have seen further it is by standing on the shoulders of giants."
