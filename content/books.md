@@ -8,6 +8,7 @@ meta = "false"
 
 **[2017]**
 
++ *A Mathematician's Apology* <br/> by **G. H. Hardy**
 + *The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It* <br/> by **Michael E. Gerber**
 + *Sidney Sheldon's Chasing Tomorrow (Tracy Whitney Series, #2)* <br/> by **Tilly Bagshawe**
 + *The Alchemist* <br/> by **Paulo Coelho**
