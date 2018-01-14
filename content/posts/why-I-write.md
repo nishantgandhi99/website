@@ -45,6 +45,6 @@ And if they not; you fear that they don't see you the same way as they used to.
 Sharing on blog takes away those insecurities for some reason. 
 May be because it is open to world but hardly anyone gone read that. 
 And even someone read it, they won't take it much seriously. 
-Reading someone's thoughts are not same as watching them expressing it in there vulerable moments.
+Reading someone's thoughts are not same as watching them expressing it in there vulnerable moments.
 
 So, Here I am sharing my thoughts and experiences which probably no body cares about.
