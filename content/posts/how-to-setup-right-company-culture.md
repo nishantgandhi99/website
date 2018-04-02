@@ -7,7 +7,7 @@ image : ""
 ---
 
 
-The culture is one the most difficult challenge any founder or CEO will ever deal with while building a successful company.
+The culture is one of the most difficult challenge any founder or CEO will ever deal with while building a successful company.
 It is easy to set the right culture in early days of the company,
 because the complexity of fixing culture grows exponentially when employee count rise from 10 to 100s.
 
