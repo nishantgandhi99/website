@@ -15,9 +15,9 @@ The cases of culture crisis with Uber in 2017 is one of the most discussed leade
 Another examples are Google and Facebook on Gender Discrimination and Integrity of employees toward company.
 
 I always consider a company as an individual person and it is easy to relate every expects of a person in a company.
-The culture of a company is like the behavior of a person. It must be consistent with rare cases of inconstancy allowed.
+The culture of a company is like the behavior of a person. It must be consistent with rare cases of inconsistency allowed.
 You can trust someone easily when you know what kind of person he is.
-Is he someone who like to be dressed up in a suit or prefer T-shirt jeans.
+Is the person like to be dressed up in a suit or prefer T-shirt and jeans?
 Is the person thoughtful in his action or impulsive?
 Is the person fitness freak or like to order pizza with double extra cheese on it?
 There is nothing right or wrong in making any of the personality or life choices.
