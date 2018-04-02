@@ -13,3 +13,7 @@ meta = "false"
 **Unknown:** "The desire to be different, makes all of us same. Irony!!!"
 
 **Isaac Newton:** "If I have seen further it is by standing on the shoulders of giants."
+
+**18th century, Unknown:** "hope for the best, but prepare for the worst."
+
+**Personal Advice by Prof Khaled Bugrara** "Stick around with the smart people and everything will workout."
