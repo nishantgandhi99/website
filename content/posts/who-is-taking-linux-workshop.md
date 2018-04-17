@@ -14,7 +14,7 @@ So after all paper work and permissions, we were official and allowed to organiz
 
 We had setup online event registration website for getting the participation count for each event. One of the event was **Linux Workshop** which I was going to deliver.
 
-So one the day of an event, we had huge queue of participants at venue. We had setup the registration desk with welcome-kit and complementary coffee for all our participants. As we were only 11 boys trying to run full show, we were doing all kind of work based on our availability and commitments with other events. Now, my workshop was in evening and I was not involved into first welcome speech so I was there filling coffee cups for participants at registration desk. Than one of my batchmate come close to me and told me that we have higgest participation count in my Linux Workshop and I must deliver best.
+So one the day of an event, we had huge queue of participants at venue. We had setup the registration desk with welcome-kit and complementary coffee for all our participants. As we were only 11 boys trying to run full show, we were doing all kind of work based on our availability and commitments with other events. Now, my workshop was in evening and I was not involved into first welcome speech so I was there filling coffee cups for participants at registration desk. Than one of my batch-mate come close to me and told me that we have highest participation count in my Linux Workshop and I must deliver best.
 
 Here is the funny incident happened.
 
@@ -22,9 +22,9 @@ One of out team member was stopped by one participant near the registration desk
 
 In those excited moment of him he asked to our team member,
 
- *"I am very excited to be here and specially interested in this Linux Workshop event. Can you tell me who is the speaker? Is it posible that I can meet him?"*
+ *"I am very excited to be here and specially interested in this Linux Workshop event. Can you tell me who is the speaker? Is it possible that I can meet him?"*
 
- Our team member showing his fingure towards me and told him,
+ Our team member showing his finger towards me and told him,
 
  *"Can you see that guy next to registration desk who is distributing coffee to everyone?"*
 

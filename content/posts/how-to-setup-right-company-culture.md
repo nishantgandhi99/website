@@ -67,7 +67,7 @@ Print them on a postcard and put them along with other gifts that you give to yo
 
 You can also organize events that revolve around your company culture.
 Like to promote innovation engineering ideas,
-Take the example of the boston based company called way-fair that organizes hackathon event for their tech employees.
+Take the example of the Boston based company called way-fair that organizes hackathon event for their tech employees.
 In th event, they can build anything they want in the span of the two-day and
 if company founders like their idea-prototype,
 they assign them required resources to build the full product out of it.
