@@ -21,7 +21,7 @@ Is the person like to be dressed up in a suit or prefer T-shirt and jeans?
 Is the person thoughtful in his action or impulsive?
 Is the person fitness freak or like to order pizza with double extra cheese?
 There is nothing right or wrong in making any of the personality or life choices.
-The problem is when you don’t stay consistent with your personality or behaviors because of people lose trust in you with such case.
+The problem starts when you don’t stay consistent with your personality or behaviors. And the result is losing trust of other people.
 Now it is easy to be consistent in his behavior for a person because it is quite effortless for him.
 But the company is not made of single person and behavior of a company is a reflection of the behavior of their employees.
 
