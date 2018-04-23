@@ -19,7 +19,7 @@ The culture of a company is like the behavior of a person. It must be consistent
 You can trust someone easily when you know what kind of person he is.
 Is the person like to be dressed up in a suit or prefer T-shirt and jeans?
 Is the person thoughtful in his action or impulsive?
-Is the person fitness freak or like to order pizza with double extra cheese on it?
+Is the person fitness freak or like to order pizza with double extra cheese?
 There is nothing right or wrong in making any of the personality or life choices.
 The problem is when you don’t stay consistent with your personality or behaviors because of people lose trust in you with such case.
 Now it is easy to be consistent in his behavior for a person because it is quite effortless for him.
@@ -55,7 +55,7 @@ There is no single silver bullet strategy to achieve it.
 You must device multiple strategies that promote the cultural values of the company to employees.
 I am going to discuss few of them here.
 
-First this is to follow those cultural value by heart make make those moves visible to the employees.
+The first thing for founders and executives is to follow those cultural values by heart and make those moves visible to the employees.
 My most favorite culture strategy example is of Starbucks and its CEO Howard Schultz.
 Howard Schultz believed that your employees care for your customer when you care for them.
 And he implemented various unconventional projects and policies for their employees that reflects in service quality of every Starbucks outlets.
