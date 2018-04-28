@@ -1,6 +1,10 @@
-Ideas from Keynote by Sarah Biller at RISE 2018
-
-5th April RISE 2018
+---
+author: "Nishant M Gandhi"
+date: 2018-04-05
+linktitle: "Ideas from Keynote by Sarah Biller at RISE 2018"
+title: "Ideas from Keynote by Sarah Biller at RISE 2018"
+image : ""
+---
 
 The RISE is an annual research presentation and award event to celebrate the work done by student research community at Northeastern University. The RISE stands for Research, Innovation, Scholarship and Entrepreneurship awards are given in those four categories. This year, the event was organized on 5th April and one of my friends participated as a candidate for RISE-2018 award. I attended the event to accompany him in award distributed ceremony. 
 The keynote for the event was delivered by Sarah Biller, the Fintech industry entrepreneur and Co-Founder/Board Member of a Boston based nonprofit organization called FinTech Sandbox.
