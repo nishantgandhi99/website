@@ -19,3 +19,5 @@ meta = "false"
 **Unknown:** "The desire to be different, makes all of us same. Irony!!!"
 
 **Unknown:** "Never take no for an answer in Business."
+
+**Meltdown: Why Our System Fail and What We Can Do About It, Chris Clearfield:** "The solution of complexity is not simplicity but transparency."
