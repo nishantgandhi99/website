@@ -6,6 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
+**[2018]**
+
++ *The Effective Executive: The Definitive Guide to Getting the Right Things Done* <br/> by **Peter F Drucker**
+
 **[2017]**
 
 + *A Mathematician's Apology* <br/> by **G. H. Hardy**
