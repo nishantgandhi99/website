@@ -8,7 +8,7 @@ image : ""
 
 When you have multiple instance of same program running in background, <br/>
 and you want to kill them all, <br/>
-Use the below command after replace **processName** with your program name.
+Use the below command after replacing **processName** with your program name.
 
 
     ps -A | grep processName | awk '{print $1}' | xargs -L1 kill -9
@@ -22,7 +22,7 @@ Let us breakdown each command passed though multiple pipes.
     ps -A
 
 **Step 2:** Filter the process rows we want to kill. <br/>
-    
+
     grep processName
 
 **Step 3:** Pick the first-column-data (process ID) of filtered process rows.
