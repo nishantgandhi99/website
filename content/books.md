@@ -7,6 +7,7 @@ meta = "false"
 +++
 
 **[2018]**
+
 + *The Hard Thing About Hard Things* by **Ben Horowitz**
 + *The Effective Executive: The Definitive Guide to Getting the Right Things Done* <br/> by **Peter F Drucker**
 
