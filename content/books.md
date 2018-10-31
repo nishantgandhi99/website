@@ -8,6 +8,7 @@ meta = "false"
 
 **[2018]**
 
++ *HBR's 10 must reads: On Managing Yourself* <br/> by **HARVARD BUSINESS REVIEW PRESS**
 + *The Hard Thing About Hard Things* <br/> by **Ben Horowitz**
 + *The Effective Executive: The Definitive Guide to Getting the Right Things Done* <br/> by **Peter F Drucker**
 
