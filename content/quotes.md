@@ -21,3 +21,6 @@ meta = "false"
 **Unknown:** "Never take no for an answer in Business."
 
 **Meltdown: Why Our System Fail and What We Can Do About It, Chris Clearfield:** "The solution of complexity is not simplicity but transparency."
+
+**Eva Infeld:** "As soon as you give people a metric they're judged by, they optimize for that metric rather than do quality work.
+This one sentence sums up much of toxicity in corporations, academia, even education. So simple."
