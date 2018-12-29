@@ -8,6 +8,8 @@ meta = "false"
 
 **[2018]**
 
++ *The Lucifer Effect: Understanding How Good People Turn Evil* <br/> by **Philip G. Zimbardo**
++ *Little Black Book of Entrepreneurship* <br/> by **Fernando Trias De Bes**
 + *HBR's 10 must reads: On Managing Yourself* <br/> by **HARVARD BUSINESS REVIEW PRESS**
 + *The Hard Thing About Hard Things* <br/> by **Ben Horowitz**
 + *The Effective Executive: The Definitive Guide to Getting the Right Things Done* <br/> by **Peter F Drucker**
