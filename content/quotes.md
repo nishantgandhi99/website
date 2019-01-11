@@ -26,3 +26,5 @@ meta = "false"
 This one sentence sums up much of toxicity in corporations, academia, even education. So simple."
 
 **Dr Mahathir Mohamad, ex Prime Minister of Malaysia:** "Don’t overeat!!! My mother used to tell me to stop eating when food is tasty. There is a tendency for people over a certain age to become obese. They have a big stomach and to satisfy themselves, they drink and they overeat, which places a burden on their heart. I have been about 62-64 (kg) for years. I can wear my clothing made 30 years ago!"
+
+**Vinod Khosla:** "Good isn't good enough; great is barely acceptable."
