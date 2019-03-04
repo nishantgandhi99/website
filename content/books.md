@@ -6,6 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
+**[2019]**
+
++ *The Hitopadesa* <br/> by **Narayan Pandit**
+
 **[2018]**
 
 + *The Lucifer Effect: Understanding How Good People Turn Evil* <br/> by **Philip G. Zimbardo**
