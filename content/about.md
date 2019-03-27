@@ -6,7 +6,7 @@ weight = "10"
 meta = "false"
 +++
 
-I am Computer Engineer by training and expert in Big Data Technologies. I am also an investor in startup called <a href="http://www.patistic.com" target="_blank">Patistic Innovations</a> which I ran for initial 5 months. I have a masters degree in Computer Science and Engineering from **Indian Institute of Technology-Patna** (class of 2015).
+I am Computer Engineer by training. I am also an investor in startup called <a href="http://www.patistic.com" target="_blank">Patistic Innovations</a> which I ran for initial 5 months. I have a masters degree in Computer Science and Engineering from **Indian Institute of Technology-Patna** (class of 2015).
 
 Currently enrolled in full time graduate Information Systems program at **Northeastern University** (class of 2019).
 

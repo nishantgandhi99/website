@@ -14,3 +14,7 @@ meta = "false"
 + *"Processing Large Scale Graphs"* at **Sathyabama University, Chennai** on May 7<sup>th</sup> 2016.
 + *"Introduction to Big Data Analytics on Hadoop"* at **Great Lakes Institute of Management, Chennai** on January 8<sup>th</sup> 2016.
 + *"Hands on Training : Graph Database with Neo4j"* at **Serendio Pvt Ltd, Chennai** on September 15<sup>th</sup> 2015.
+
+**[Organizer]**
+
++ *"IIT AGNE: Data Science Challenge"* at **Cambridge Innovation Center, Cambridge, MA** on March 16<sup>th</sup> 2019.
