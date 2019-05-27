@@ -8,6 +8,8 @@ meta = "false"
 
 **[2019]**
 
++ *Making Things Happen* <br/> by **Scott Berkun**
++ *On Turing* <br/> by **John Prager**
 + *The Hitopadesa* <br/> by **Narayan Pandit**
 
 **[2018]**
