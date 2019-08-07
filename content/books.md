@@ -8,6 +8,7 @@ meta = "false"
 
 **[2019]**
 
++ *Invisible Influence: The hidden forces that shape behavior* <br/> by **Jonah Berger**
 + *Making Things Happen* <br/> by **Scott Berkun**
 + *On Turing* <br/> by **John Prager**
 + *The Hitopadesa* <br/> by **Narayan Pandit**
