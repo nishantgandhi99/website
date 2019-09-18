@@ -8,6 +8,7 @@ meta = "false"
 
 **[2019]**
 
++ *Hit Refresh* <br/> by **Satya Nadella**
 + *Invisible Influence: The hidden forces that shape behavior* <br/> by **Jonah Berger**
 + *Making Things Happen* <br/> by **Scott Berkun**
 + *On Turing* <br/> by **John Prager**
