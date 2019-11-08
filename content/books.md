@@ -8,6 +8,8 @@ meta = "false"
 
 **[2019]**
 
++ *Mindfulness* <br/> by **Ellen J. Langer**
++ *What the Eyes Don't See: A Story of Crisis, Resistance, and Hope in an American City* <br/> by **Hanna-Attisha, Mona**
 + *Hit Refresh* <br/> by **Satya Nadella**
 + *Invisible Influence: The hidden forces that shape behavior* <br/> by **Jonah Berger**
 + *Making Things Happen* <br/> by **Scott Berkun**
