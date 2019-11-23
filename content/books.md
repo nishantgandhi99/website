@@ -8,6 +8,7 @@ meta = "false"
 
 **[2019]**
 
++ *What's Your Creative Type?: Harness the Power of Your Artistic Personality* <br/> by **Meta Wagner**
 + *Mindfulness* <br/> by **Ellen J. Langer**
 + *What the Eyes Don't See: A Story of Crisis, Resistance, and Hope in an American City* <br/> by **Hanna-Attisha, Mona**
 + *Hit Refresh* <br/> by **Satya Nadella**
