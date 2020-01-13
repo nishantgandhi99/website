@@ -6,6 +6,8 @@ weight = "10"
 meta = "false"
 +++
 
+### Those that I cherish:
+
 **Aaron Swartz:** “I think deeply about things and want others to do likewise. I work for ideas and learn from people. I don’t like excluding people. I’m a perfectionist, but I won’t let that get in the way of publication. Except for education and entertainment, I’m not going to waste my time on things that won’t have an impact. I try to be friends with everyone, but I hate it when you don’t take me seriously. I don’t hold grudges, it’s not productive, but I learn from my experience. I want to make the world a better place.”
 
 **Isaac Newton:** "If I have seen further it is by standing on the shoulders of giants."
@@ -28,3 +30,16 @@ This one sentence sums up much of toxicity in corporations, academia, even educa
 **Dr Mahathir Mohamad, ex Prime Minister of Malaysia:** "Don’t overeat!!! My mother used to tell me to stop eating when food is tasty. There is a tendency for people over a certain age to become obese. They have a big stomach and to satisfy themselves, they drink and they overeat, which places a burden on their heart. I have been about 62-64 (kg) for years. I can wear my clothing made 30 years ago!"
 
 **Vinod Khosla:** "Good isn't good enough; great is barely acceptable."
+
+**Tim Ferris:** "Life punishes the vague wish and rewards the specific ask."
+
+**Nishant Gandhi:** "Those who don't have present, either talk about glorious past or magnificent future."
+
+
+### Random From Internet:
+
++ Enthusiasm is common, commitment is rare.
++ “The best way to predict the future is to invent it. The second best way is to finance it.’​ — John Doerr
++ If you only read the books that everyone else is reading, you can only think what everyone else is thinking.
++ "Kaun kehta hai ki aasmaan mein suraakh ho nahin sakta, 
+  ek pathhar toh tabiyat se uchhaalo yaaron!!!" (in Hindi) -- Dushyant Kumar, Poet
