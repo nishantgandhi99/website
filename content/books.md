@@ -6,6 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
+**[2020]**
+
++ *What I Did Not Learn at Iit: Transitioning from Campus to Workplace* <br/> by **Rajeev Agarwal**
+
 **[2019]**
 
 + *What's Your Creative Type?: Harness the Power of Your Artistic Personality* <br/> by **Meta Wagner**
