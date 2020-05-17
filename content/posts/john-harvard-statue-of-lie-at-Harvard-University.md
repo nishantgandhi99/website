@@ -12,14 +12,14 @@ The statue of John Harvard has been one of the major attraction for tourists vis
 
 The statue is also known by locals as Statue of lies. Here are most famous three lies around the statue of John Harvard.
 
-**Lie 1:**<br/>
+**Lie 1:** <br/>
 When the statue was created, there were no pictures of John Harvard known to exist. A student named Sherman Hoar was chosen randomly and dressed in the style of the seventeenth century so he could model for the statue. The project was executed by Mr Daniel Chester French.
 
-**Lie 2:**<br/>
+**Lie 2:** <br/>
 John Harvard was not the founder of the college.  The Massachusetts Bay Colony had established the college.  It was only later named after John Harvard, who had been an early financial contributor to the college. <br/>
 *(Zoom the above picture to read carving on statue)*
 
-**Lie 3:**<br/>
+**Lie 3:** <br/>
 The college was actually founded in 1636 not 1638 as the inscription claims. <br/>
 *(Zoom the above picture to read carving on statue)*
 

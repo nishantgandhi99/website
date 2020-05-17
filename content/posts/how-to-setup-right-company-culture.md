@@ -31,7 +31,7 @@ How to build the right company culture?
 
 I recommend 3 step process for building company culture.
 
-**Define Company Culture:**<br/>
+**Define Company Culture:** <br/>
 The process starts with defining what your company culture is.
 The best way for the founders is to sit and ask questions like what they care most about while building this company?
 What kind of people do they want to work with?
@@ -47,7 +47,7 @@ What kind of trait your company culture does not support.
 Sometimes those traits are presumed like you don’t want your employees to be jerk or lone-wolf.
 But writing out them into company culture manifesto put tight boundaries on that behavior or attitude.
 
-**Implement strategies to promote the cultural values:**<br/>
+**Implement strategies to promote the cultural values:** <br/>
 Once you know what your company culture should look like though building culture manifesto,
 you want to make sure that those values are harvested or engraved in your employees. How to do that?
 
@@ -81,7 +81,7 @@ You must not devise the reward and punishment strategy that invoke a sense of un
 The unhealthy competition sometimes leads to mutual loss than mutual gain.
 This in itself is a big topic that I might write about in future.
 
-**Evaluate your potential hire for cultural fit:**<br/>
+**Evaluate your potential hire for cultural fit:** <br/>
 Now you have employees with right culture value and attitude,
 you want to make sure that every new cycle of hire also have same traits that you want for your employees.
 You must and absolutely scrutinize potential candidate for right culture fit.
