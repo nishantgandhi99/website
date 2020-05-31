@@ -14,3 +14,12 @@ image : ""
 >>> round(2.5)
 2
 ```
+
+```python
+# python 2
+>>> list.iteritems()
+
+# python 3
+>>> list.iteritems()
+NameError: name 'iteritems' is not defined
+```
