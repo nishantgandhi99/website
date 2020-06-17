@@ -8,6 +8,7 @@ meta = "false"
 
 **[2020]**
 
++ *Never Split the DIfference* <br/> by **Chris Voss**
 + *Becoming Mit: Moments of Decision* <br/> by **David Kaiser**
 + *What I Did Not Learn at Iit: Transitioning from Campus to Workplace* <br/> by **Rajeev Agarwal**
 
