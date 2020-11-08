@@ -6,6 +6,8 @@ title: 1x1 my thoughts
 image : ""
 ---
 
+**How do you deal with 1-1 meetings that struggle to go past 10 min?**
+
 I look at these weekly 1x1s as an opportunity for us to help them grow. There are multiple dimensions that we can think about for this 1x1s.
 
 + First is the summary of their weekly work. This is important for creating performance history and can be used to advocate for their comp raise or title change.
