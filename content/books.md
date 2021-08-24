@@ -6,6 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
+**[2021]**
+
++ *The Manager's Path* <br/> by **Camille Fournier**
+
 **[2020]**
 
 + *Never Split the DIfference* <br/> by **Chris Voss**
