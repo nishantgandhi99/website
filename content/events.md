@@ -7,6 +7,10 @@ meta = "false"
 +++
 
 
+**[Guest Speaker]**
+
++ *"Actionable Insights: Business Intelligence for Startups"* at **Boston Startup Week 2021** on September 24<sup>th</sup> 2021.
+
 **[Workshop/Seminar]**
 
 + *"Big data from Industry Perceptive"* at **C K Pithawalla College of Engineering & Technology, Surat** on January 17<sup>th</sup> 2017.
