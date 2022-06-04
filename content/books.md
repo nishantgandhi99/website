@@ -6,6 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
+**[2022]**
+
++ *Gung Ho! Turn On the People in Any Organization* <br/> by **Kenneth H. Blanchard**
+
 **[2021]**
 
 + *The Manager's Path* <br/> by **Camille Fournier**
