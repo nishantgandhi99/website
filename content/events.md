@@ -9,6 +9,7 @@ meta = "false"
 
 **[Guest Speaker]**
 
++ *“Transforming Startup Visions into Reality with AI and Data Tools”* at **Boston Startup Week 2024** on September 9<sup>th</sup> 2024.
 + *"Actionable Insights: Business Intelligence for Startups"* at **Boston Startup Week 2021** on September 24<sup>th</sup> 2021.
 
 **[Workshop/Seminar]**
