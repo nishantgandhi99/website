@@ -13,5 +13,7 @@ meta = "false"
 
 **[Community]**
 
++ [Boston AI Professionals Meetup](https://www.meetup.com/boston-ai-professionals):  
+The Boston AI Professionals Meetup is a community for technical AI professionals to connect and share how industries, organizations, researchers and communities are utilizing AI and data science.
 + [Learn Python Programming](https://www.meetup.com/Learn-Python-Programming):  
 Boston based Meetup group for delivering python workshops for free.

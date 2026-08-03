@@ -9,6 +9,8 @@ meta = "false"
 
 **[Guest Speaker]**
 
++ *"Speaker & Judge"* at **Hackathon Cruise: Escape AI by AI Futurism Club, UMass Boston** on June 12<sup>th</sup> 2026.
++ *"Speaker & Judge"* at **AI Fintech Hackathon by AI Futurism Club, UMass Boston** on April 24<sup>th</sup> 2026.
 + *“Transforming Startup Visions into Reality with AI and Data Tools”* at **Boston Startup Week 2024** on September 9<sup>th</sup> 2024.
 + *"Actionable Insights: Business Intelligence for Startups"* at **Boston Startup Week 2021** on September 24<sup>th</sup> 2021.
 

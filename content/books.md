@@ -6,6 +6,10 @@ weight = "10"
 meta = "false"
 +++
 
+**[2026]**
+
++ *Good to Great* <br/> by **Jim C. Collins**
+
 **[2022]**
 
 + *Gung Ho! Turn On the People in Any Organization* <br/> by **Kenneth H. Blanchard**
@@ -13,6 +17,7 @@ meta = "false"
 **[2021]**
 
 + *The Manager's Path* <br/> by **Camille Fournier**
++ *Onward: How Starbucks Fought for Its Life without Losing Its Soul* <br/> by **Howard Schultz**
 
 **[2020]**
 
