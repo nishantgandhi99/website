@@ -20,4 +20,4 @@ It is easy to underestimate how much operational complexity sits behind a good r
 The scale of 20+ billion vectors is impressive, but the more useful takeaway for me was the mindset. Retrieval infrastructure needs to be designed like any other critical distributed system. Automation, reliability and debuggability matter just as much as retrieval quality.
 Definitely worth a read if you are working on RAG systems, semantic search or production AI infrastructure.
 
-Blog Link: https://lnkd.in/gW8Ga8nR
+Blog Link: https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot
