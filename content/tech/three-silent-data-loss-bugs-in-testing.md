@@ -1,6 +1,6 @@
 +++
 title = "Three Silent Data Loss Bugs We Caught in Testing (and Nearly Shipped)"
-date = "2026-08-10"
+date = "2025-08-10"
 draft = false
 tags = ["testing", "ml infrastructure", "data validation", "production reliability"]
 summary = "A document extraction pipeline with three separate bugs that would have silently corrupted data in production, all caught in testing. None threw errors. All looked correct."
